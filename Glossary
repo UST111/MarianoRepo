@@ -23,3 +23,7 @@ Que aprendimos:
 - creación de subcarpetas (packages adentro de un package parent)
 - creación de un archivo txt (un File)
 7) tipos de convención de estilos de nomenclatura --> snake case, title case, camel case
+8) creación de github
+    - clonar repo
+    - pushear repo
+    - linkear repo local con repo remoto
