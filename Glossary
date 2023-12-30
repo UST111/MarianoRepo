@@ -1,0 +1,25 @@
+Clase 1 de Java usando intelliJ - Fecha 30 dic 2023
+
+Que aprendimos:
+
+1) Bajar JAVA e instalarlo
+2) Bajar MAVA y descomprimir la carpeta
+3) Bajar IntelliJ Community e instalarlo
+4) Bajar Git Bash e instalarlo
+5) Agregar variables de entorno de sistema (JAVA y MAVEN) para que Windows los detecte
+6) Nuestro primer código en JAVA
+- creación de variables
+    - de tipo int (de integer, enteros, son valores numéricos)
+    - de tipo String (de tipo alfanumérico --> letras/numeros/caracteres, revisar clase HelloWorld)
+- creación del main
+- imprimir las variables
+- cambiar el valor de las variables
+- agregar comentarios
+- ejecutar el código
+ corregir errores con sugerencias de IntelliJ (cuando el código está en rojo
+    , no se puede ejecutar, porque tiene un error)
+- creación de archivos (clases en Java, java class)
+- creación de carpetas (packages)
+- creación de subcarpetas (packages adentro de un package parent)
+- creación de un archivo txt (un File)
+7) tipos de convención de estilos de nomenclatura --> snake case, title case, camel case
