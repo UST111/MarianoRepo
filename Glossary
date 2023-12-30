@@ -7,6 +7,9 @@ Que aprendimos:
 3) Bajar IntelliJ Community e instalarlo
 4) Bajar Git Bash e instalarlo
 5) Agregar variables de entorno de sistema (JAVA y MAVEN) para que Windows los detecte
+
+nota: puntos 1-5 fue la config inicial
+
 6) Nuestro primer código en JAVA
 - creación de variables
     - de tipo int (de integer, enteros, son valores numéricos)
